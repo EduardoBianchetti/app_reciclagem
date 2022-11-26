@@ -1,16 +1,5 @@
 # app_reciclagem
 
-A new Flutter project.
+Nosso aplicativo tem o intuito de influenciar e auxiliar as pessoas na hora da reciclagem, nele você pode cadastrar o lixo com os dados, descrição, tipo de lixo e peso em quilogramas, também permite editar lixos já incluídos anteriormente e excluir o lixo caso seja necessário. É possível também visualizar os itens cadastrados em uma tela de listagem, com persistência em banco de dados SQLite.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+João Vitor Primieri Paludo - 182741 e Eduardo Bonamigo Bianchetti - 185961.
