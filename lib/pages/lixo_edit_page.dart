@@ -62,7 +62,7 @@ class _LixoEditPageState extends State<LixoEditPage> {
               ),
               TextFormField(
                 controller: _pesoCon,
-                keyboardType: TextInputType.text,
+                keyboardType: TextInputType.number,
                 maxLength: 4,
                 decoration: const InputDecoration(
                   border: OutlineInputBorder(),
